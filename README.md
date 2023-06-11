@@ -9,3 +9,6 @@
 
 ### Cinematic Tools...
 ... is a hack to allow free camera movemenet in different games. This allows you to create pretty screenshots and videos. Depending on the game it also includes engine post-processing effects like Depth of field, LOD fixes, time freeze and some other useful features.
+
+# How to use
+Download compiled dll from [here](https://github.com/JackySu/CinematicTools/releases), inject and enjoy
